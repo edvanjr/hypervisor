@@ -1,0 +1,12 @@
+.centerDiv{
+  width: 800px;
+  height: auto;
+  position: absolute;
+  margin-left: -400px;
+  top: 30%;
+  left: 50%;
+}
+
+#ex1Slider .slider-selection {
+  background: #BABABA;
+}
